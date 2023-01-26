@@ -81,12 +81,12 @@ else {
 }
 
 function numerouno() {
-    let num1 = Number(prompt("Ingresa el primer numero :"));
+    let num1 = Number(prompt("Ingrese el primer numero :"));
     return num1;
 }
 
 function numerodos() {
-    let num2 = Number(prompt("Ingresa el segundo numero :"));
+    let num2 = Number(prompt("Ingrese el segundo numero :"));
     return num2;
 }
 
